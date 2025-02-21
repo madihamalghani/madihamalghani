@@ -9,6 +9,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=madihamalghani&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=madihamalghani&theme=dark&hide_border=false)<br/>
 
+![Profile Views](https://komarev.com/ghpvc/?username=madihamalghani&color=blue)
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

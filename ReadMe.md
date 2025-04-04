@@ -1,6 +1,7 @@
 # 💫 About Me:
 ### Hi! I am Madiha Fatima
- <br>- 👀 I’m interested in Programming and Tech<br>- 🔭 I’m currently working on mastering the MERN stack.<br>- 💬 Ask me about JavaScript, React, Node.js,Express, MongoDb or Git.<br>- ⚡ Fun fact: I love building unique projects and solving challenging problems!
+ <br>- 👀 I’m interested in Programming and Tech<br>- 🔭 I’m currently working on mastering the MERN stack.<br>- 💬 Ask me about JavaScript, React, Node.js,Express, MongoDb or Git. <br>- 📧 How to reach me: [madihamalghani50@gmail.com](mailto:madihamalghani50@gmail.com) or [LinkedIn:Madiha Fatima](https://www.linkedin.com/in/madiha-fatima-6762142b4/)
+<br>- ⚡ Fun fact: I love building unique projects and solving challenging problems!
 
 
 # 💻 Tech Stack:

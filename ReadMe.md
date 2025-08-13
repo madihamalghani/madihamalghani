@@ -2,6 +2,10 @@
 ### Hi! I am Madiha Fatima
  <br>- 👀 I’m interested in Programming and Tech. <br>- 🔭 I’m currently working on Building a MERN stack project powered by real-world data to showcase full-stack development skills. <br>- 💬 Ask me about JavaScript, React, Node.js,Express, MongoDB or Git. <br>- 📧 How to reach me: [madihamalghani50@gmail.com](mailto:madihamalghani50@gmail.com) or [LinkedIn:Madiha Fatima](https://www.linkedin.com/in/madiha-fatima-6762142b4/)
 <br>- ⚡ Fun fact: I love building unique projects and solving challenging problems!
+<br>
+### Click below to see my portfolio:
+
+[![🌐 Visit My Portfolio](https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-blue?style=for-the-badge)](https://madihamalghani.vercel.app/)  
 
 
 # 💻 Tech Stack:

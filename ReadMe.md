@@ -18,9 +18,6 @@
 [![Silent Desk](https://img.shields.io/badge/🔗%20Silent%20Desk-blue?style=for-the-badge)](https://silent-desk-frontend.vercel.app/)  
 *A MERN stack app for anonymous class communication with admin controls, role-based access, and Authentication.*
 
-[![Learning Platform](https://img.shields.io/badge/🔗%20Learning%20Platform-green?style=for-the-badge)](https://my-learning-platform-steel.vercel.app/)  
-*A learning platform where instructor can add courses and users can enroll in those courses (rn front-end only)*
-
 [![Tailwind- Kit](https://img.shields.io/badge/🔗%20Tailwind%20Kit-orange?style=for-the-badge)](https://tailwind-kit-one.vercel.app/)  
 *A tailwind kit containing reusable tailwind components*
 

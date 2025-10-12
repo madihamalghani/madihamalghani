@@ -15,7 +15,7 @@
 
 ## Featured Projects
 
-[![Silent Desk](https://img.shields.io/badge/🔗%20Silent%20Desk-blue?style=for-the-badge)](https://silent-desk-frontend.vercel.app/)  
+[![Silent Desk](https://img.shields.io/badge/🔗%20Silent%20Desk-blue?style=for-the-badge)](https://frontend-silent-desk.onrender.com)  
 *A MERN stack app for anonymous class communication with admin controls, role-based access, and Authentication.*
 
 [![Tailwind- Kit](https://img.shields.io/badge/🔗%20Tailwind%20Kit-orange?style=for-the-badge)](https://tailwind-kit-one.vercel.app/)  

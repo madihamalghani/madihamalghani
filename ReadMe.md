@@ -3,7 +3,7 @@
 - 👀 I’m interested in **Programming and Tech**  
 - 🔭 I’m currently working on a **MERN stack project powered by real-world data**  
 - 💬 Ask me about **JavaScript, React, Node.js, Express, MongoDB, or Git**  
-- 📧 How to reach me: [madihamalghani50@gmail.com](mailto:madihamalghani50@gmail.com) | [LinkedIn](https://www.linkedin.com/in/madiha-fatima-6762142b4/)  
+- 📧 How to reach me: [LinkedIn](https://www.linkedin.com/in/madiha-fatima-6762142b4/)  
 - ⚡ Fun fact: I love **building unique projects** and solving **challenging problems**!  
 
 ---
